@@ -1,6 +1,3 @@
-# python "C:\Users\Guilh\Documents\Programming\Danadoton BOT\Danadoton.py"
-# desligar: Crtl+C
-
 import os
 import discord
 from discord.ext import commands
@@ -88,3 +85,4 @@ async def on_message(message):
 
 # Rodar o bot
 bot.run(TOKEN)
+
